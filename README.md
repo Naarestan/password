@@ -1,2 +1,2 @@
-# password_strength
+# Password Strength
 Analyzing Password Strength in Python
